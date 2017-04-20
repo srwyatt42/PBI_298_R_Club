@@ -17,3 +17,5 @@ Pull = other party will pull new changes.
 Commit allows you to have waypoints to go back to. You can't pull the same file you're working on without committing your changes.
 ### 6. Where are the files in your repository stored? 
 The files are at least on my laptop and GitHub + others.....
+
+Thanks for eaching these two **old dogs** new tricks!
